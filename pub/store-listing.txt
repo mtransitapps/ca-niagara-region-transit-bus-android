@@ -5,7 +5,7 @@ Niagara Region Transit Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from January 3, 2017 to April 20, 2018.
+Schedule from September 5, 2017 to June 30, 2018.
 Tweets from @NRTransit.
 ----------
 Full description:
