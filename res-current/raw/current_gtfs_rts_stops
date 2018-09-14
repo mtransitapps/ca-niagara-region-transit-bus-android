@@ -1,29 +1,32 @@
-1,'','Carlisle St - Bus Terminal',43.160076,-79.243553
-11,'','Fairview Mall',43.178405,-79.245508
-22,'','221 Glendale Ave - Pen Ctr',43.134869,-79.223701
-25,'','500 Glenridge Ave Brock U',43.119305,-79.248962
-77,'','Thorold Towpath',43.123463,-79.201767
-202,'','Sir Isaac Brock Way / Regional Hq',43.1180559,-79.2397222
-1127,'','Glenridge Ave & East Academ',43.118732,-79.243507
-100001,'','East Main & Wellington',42.993641,-79.226612
-100002,'','Montrose Rd & Schisler Rd',43.00725,-79.1229
-100003,'','Montrose & Lundy''s Ln',43.088471,-79.123359
-200001,'','East Main St & Wellington St',42.993425,-79.226623
-200002,'','Montrose Rd & Schisler Rd',43.00792,-79.12235
-200003,'','Montrose Rd & Lundy''s Ln',43.088854,-79.123173
-200315,'','Niagara Sq',43.06632,-79.127259
-200363,'','Thorold Stone Rd / Montrose',43.114532,-79.125039
-200844,'','Thorold Stone Rd / Montrose',43.114663,-79.125877
-200845,'','Thorold Stone Rd / Kalar Rd',43.114148,-79.13703
-200846,'','Thorold Stone Rd / Kalar Rd',43.11413,-79.13769
-200900,'','Thorold Stone Rd / Dorchester',43.115102,-79.112771
-200901,'','Thorold Stone Rd / Dorchester',43.114926,-79.112479
-200902,'','Minacs / Montrose',43.039428,-79.124047
-201000,'','Morrison / Dorchester Hub',43.10363,-79.1156
-300001,'','Merritt Rd / Niagara St',43.025045,-79.249665
-500001,'','Glendale - Niagara College',43.152531,-79.16659
-500002,'','Outlet Mall - Notl',43.15778,-79.175
-3400000,'','Welland Downtown Terminal',42.99324,-79.24661
-3400001,'','Merritt Rd / Niagara St',43.02537167,-79.24979333
-3400250,'','Seaway Mall',43.01535,-79.24872
-9000000,'','East Academic',43.1179,-79.2415
+228,'','Sir Isaac Brock Way & Schmon Pkw',43.117718,-79.24189
+539,'','Geneva St & Welland Av',43.166115,-79.240219
+580,'','Geneva St Before Welland Av',43.166012,-79.240387
+838,'','Glenridge Av & East Academic Com',43.118046,-79.243149
+1285,'','Glenridge Av & Main Brock Entran',43.118425,-79.243412
+1302,'','Pine St S & Lynden St W',43.118981,-79.202818
+1340,'','Sir Isaac Brock Way & Schmon Pkw',43.118203,-79.240082
+9001,'','Thorold Stone Rd & Dorchester Rd',43.115095,-79.112718
+9002,'','Thorold Stone Rd & Montrose Rd',43.114698,-79.12576
+9003,'','Thorold Stone Rd & Kalar Rd',43.114365,-79.137132
+9004,'','Thorold Stone Rd & Kalar Rd',43.114222,-79.137608
+9005,'','Thorold Stone Rd & Montrose Rd',43.11454,-79.125203
+9006,'','Thorold Stone Rd & Dorchester Rd',43.115017,-79.112455
+9007,'','Montrose Rd & Lundy''s Ln',43.088425,-79.12332
+9008,'','Schisler Rd & Montrose Rd',43.006607,-79.123645
+9009,'','East Main St & Wellington St',42.993598,-79.227015
+9010,'','East Main St & Wellington St',42.993472,-79.227167
+9011,'','Schisler Rd & Montrose Rd',43.008062,-79.122215
+9012,'','Montrose Rd & Lundy''s Ln',43.08879,-79.123225
+100000,'','Downtown Terminal',43.160076,-79.243553
+100001,'','Niagara Falls Transfer Pt',43.103485,-79.115698
+100002,'','Pen Ctr',43.134869,-79.223701
+100003,'','Seaway Mall',43.015388,-79.248792
+100004,'','Welland Bus Terminal',42.992504,-79.246506
+100006,'','Brock University',43.118878,-79.248973
+100008,'','Fairview Mall',43.178413,-79.245514
+100020,'','Niagara College - Notl Campus',43.152309,-79.166473
+100021,'','Niagara College - Welland Campus',43.014897,-79.262253
+100035,'','Thorold Towpath Terminal',43.123463,-79.201767
+100044,'','Outlet Collection Of Niagara',43.15788,-79.1752
+200000,'','Niagara Sq',43.066293,-79.127291
+200001,'','Concentrix',43.042547,-79.12425
