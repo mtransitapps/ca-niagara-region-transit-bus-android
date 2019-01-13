@@ -5,18 +5,21 @@
 1285,'','Glenridge Av & Main Brock Entran',43.118425,-79.243412
 1302,'','Pine St S & Lynden St W',43.118981,-79.202818
 1340,'','Sir Isaac Brock Way & Schmon Pkw',43.118203,-79.240082
-9001,'','Thorold Stone Rd & Dorchester Rd',43.115095,-79.112718
-9002,'','Thorold Stone Rd & Montrose Rd',43.114698,-79.12576
-9003,'','Thorold Stone Rd & Kalar Rd',43.114365,-79.137132
-9004,'','Thorold Stone Rd & Kalar Rd',43.114222,-79.137608
-9005,'','Thorold Stone Rd & Montrose Rd',43.11454,-79.125203
-9006,'','Thorold Stone Rd & Dorchester Rd',43.115017,-79.112455
-9007,'','Montrose Rd & Lundy''s Ln',43.088425,-79.12332
-9008,'','Schisler Rd & Montrose Rd',43.006607,-79.123645
-9009,'','East Main St & Wellington St',42.993598,-79.227015
-9010,'','East Main St & Wellington St',42.993472,-79.227167
-9011,'','Schisler Rd & Montrose Rd',43.008062,-79.122215
-9012,'','Montrose Rd & Lundy''s Ln',43.08879,-79.123225
+6315,'','Niagara Sq',43.066293,-79.127291
+6363,'','Thorold Stone Rd & Montrose Rd',43.11454,-79.125203
+6374,'','Montrose Rd & Lundy''s Ln',43.088425,-79.12332
+6619,'','Thorold Stone Rd & Montrose Rd',43.114698,-79.12576
+6709,'','Thorold Stone Rd & Dorchester Rd',43.115095,-79.112718
+6803,'','Thorold Stone Rd & Dorchester Rd',43.115017,-79.112455
+6845,'','Thorold Stone Rd & Kalar Rd',43.114365,-79.137132
+6846,'','Thorold Stone Rd & Kalar Rd',43.114222,-79.137608
+6918,'','Montrose Rd & Lundy''s Ln',43.08879,-79.123225
+6946,'','East Main St & Wellington St',42.993598,-79.227015
+6948,'','East Main St & Wellington St',42.993472,-79.227167
+6950,'','Concentrix',43.042547,-79.12425
+6953,'','Schisler Rd & Montrose Rd',43.006607,-79.123645
+6954,'','Schisler Rd & Montrose Rd',43.008062,-79.122215
+9013,'','Niagara St & Quaker Rd',43.022701,-79.24989
 100000,'','Downtown Terminal',43.160076,-79.243553
 100001,'','Niagara Falls Transfer Pt',43.103485,-79.115698
 100002,'','Pen Ctr',43.134869,-79.223701
@@ -26,7 +29,6 @@
 100008,'','Fairview Mall',43.178413,-79.245514
 100020,'','Niagara College - NOTL Campus',43.152309,-79.166473
 100021,'','Niagara College - Welland Campus',43.014897,-79.262253
-100035,'','Thorold Towpath Terminal',43.123463,-79.201767
+100035,'','Thorold Towpath Terminal',43.123822,-79.20208
 100044,'','Outlet Collection Of Niagara',43.15788,-79.1752
-200000,'','Niagara Sq',43.066293,-79.127291
-200001,'','Concentrix',43.042547,-79.12425
+200002,'','Fort Erie Municipal Ctr',42.902088,-78.973298
