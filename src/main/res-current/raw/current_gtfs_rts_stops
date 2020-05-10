@@ -1,12 +1,45 @@
-228,'','Sir Isaac Brock Way & Schmon Pkw',43.117718,-79.24189
+228,'','Sir Isaac Brock Way & John MacDo',43.117718,-79.24189
 539,'','Geneva St & Welland Av',43.166115,-79.240219
 580,'','Geneva St Before Welland Av',43.166012,-79.240387
 838,'','Glenridge Av & East Academic Com',43.118046,-79.243149
 1285,'','Glenridge Av & Main Brock Entran',43.118425,-79.243412
-1302,'','Pine St S & Lynden St W',43.11898116,-79.20281793
-1340,'','Sir Isaac Brock Way & Schmon Pkw',43.118203,-79.240082
+1302,'','Pine St S & Lynden St W',43.1189811582501,-79.2028179323242
+1340,'','Sir Isaac Brock Way & Schmon Pkw',43.118195,-79.239633
+3000,'','Canal Bank St & Ontario Rd',42.974459,-79.255096
+3001,'','Flag Stop - Barrick Rd & Apollo',42.910328,-79.257409
+3003,'','Flag Stop - Elm St & Prosperity',42.906619,-79.254835
+3006,'','Flag Stop - Mall & West Side Rd',42.905229,-79.265274
+3007,'','Flag Stop - Coronation Dr & West',42.903076,-79.265209
+3011,'','Flag Stop - Merritt Pk & West Si',42.899146,-79.265156
+3012,'','Flag Stop - West Side Rd & Main',42.897566,-79.264877
+3014,'','Flag Stop - West Side Rd & Killa',42.8916,-79.265091
+3015,'','Flag Stop - Killaly St W & Steel',42.891648,-79.260317
+3023,'','Flag Stop - Elm St & Charlotte S',42.885009,-79.254883
+3024,'','Flag Stop - Elm St & Elgin St',42.888315,-79.254786
+3025,'','Flag Stop - Elm St & Killaly St',42.891652,-79.25484
+3026,'','Flag Stop - Elm St & McCain St',42.895024,-79.254909
+3027,'','Flag Stop - Elm St & Neff St',42.897959,-79.254776
+3034,'','Flag Stop - Borden Av & Elm St',42.9017,-79.254974
+3035,'','Flag Stop - Elm St & Rosedale',42.902934,-79.254733
+3076,'','Flag Stop - Barrick Rd & West St',42.910171,-79.264855
+3077,'','Flag Stop - West Side Rd & Stone',42.921204,-79.265349
+3078,'','Flag Stop - West Side Rd & Forks',42.94535,-79.263911
+3079,'','Flag Stop - Hwy 58 & Townline Rd',42.962029,-79.261773
+3080,'','Flag Stop - Canal Bank St & Town',42.962531,-79.252045
+3081,'','Flag Stop - Canal Bank St & Town',42.962625,-79.252431
+3082,'','Flag Stop - West Side Rd & Forks',42.945633,-79.264255
+3083,'','Flag Stop - West Side Rd & Stone',42.921423,-79.265714
+3084,'','Flag Stop - West Side Rd & Barri',42.910533,-79.265392
 3634,'','Morrison-Dorchester Hub',43.103485,-79.115698
-6315,'','Niagara Sq',43.066293,-79.127291
+3888,'','Fort Erie Municipal Ctr',42.90219,-78.97349
+4175,'','King St & 60 King St',42.990205,-79.25116
+4176,'','King St & 211 King St',42.9873,-79.251082
+4177,'','King St & Albert St',42.985993,-79.251215
+4178,'','King St & Rex Hotel',42.984633,-79.251223
+4179,'','King St & Labs',42.981915,-79.251335
+4181,'','King St & 6th St',42.977275,-79.251382
+4182,'','King St & 7th St',42.975558,-79.251382
+6315,'','Niagara Sq',43.066003,-79.123933
 6363,'','Thorold Stone Rd & Montrose Rd',43.11454,-79.125203
 6374,'','Montrose Rd & Lundy''s Ln',43.088425,-79.12332
 6619,'','Thorold Stone Rd & Montrose Rd',43.114698,-79.12576
@@ -24,12 +57,12 @@
 9014,'','Niagara St & Quaker Rd',43.023143,-79.249713
 100000,'','St Catharines Bus Terminal',43.160076,-79.243553
 100002,'','Pen Ctr',43.134869,-79.223701
-100003,'','Seaway Mall',43.01538833,-79.24879167
+100003,'','Seaway Mall',43.01538833,-79.248791666
 100004,'','Welland Bus Terminal',42.992504,-79.246506
 100006,'','Brock University',43.118878,-79.248973
 100008,'','Fairview Mall',43.178413,-79.245514
 100020,'','Niagara College - NOTL Campus',43.152309,-79.166473
 100021,'','Niagara College - Welland Campus',43.01489666,-79.2622533
-100035,'','Thorold Towpath Terminal',43.12382222,-79.2020804
+100035,'','Thorold Towpath Terminal',43.1238222228129,-79.2020804033036
 100044,'','Outlet Collection Of Niagara',43.15788,-79.1752
-100045,'','Meridian Community Ctr',43.04779909,-79.27286844
+9000016,'','Port Colborne City Hall',42.885213,-79.252388
