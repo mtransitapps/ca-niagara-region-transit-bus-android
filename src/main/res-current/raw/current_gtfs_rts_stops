@@ -6,8 +6,8 @@
 1462,'1340','Sir Isaac Brock Way + John MacDonell St',43.118195,-79.239633
 1638,'1285','Glenridge Ave + East Academic Crosswalk',43.119059,-79.243455
 2612,'BRU','Brock University',43.118878,-79.248973
-2620,'CTO','Thorold Towpath Terminal',43.123822,-79.20208
-2622,'DTT','St Catharines Bus Terminal',43.160076,-79.243553
+2620,'CTO','Thorold Towpath Term',43.123822,-79.20208
+2622,'DTT','St Catharines Bus Term',43.160076,-79.243553
 2623,'FVM','Fairview Mall',43.178413,-79.245514
 2628,'GDC','Niagara College - NOTL Campus',43.152309,-79.166473
 2660,'PEN','Pen Ctr',43.134869,-79.223701
@@ -31,7 +31,7 @@
 3532,'6950','Concentrix',43.03934,-79.124025
 3533,'6953','Schisler Rd + Montrose Rd',43.006608,-79.123645
 3534,'6954','Montrose Rd + Schisler Rd',43.008063,-79.122215
-3733,'WEL','Welland Bus Terminal',42.993506,-79.245809
+3733,'WEL','Welland Bus Term',42.993506,-79.245809
 3734,'13006','Port Colborne City Hall',42.885123,-79.252388
 3736,'2503','Flag Stop - Elm St & Prosperity',42.906619,-79.254835
 3738,'2507','Flag Stop - Coronation Dr & West',42.903076,-79.265209
