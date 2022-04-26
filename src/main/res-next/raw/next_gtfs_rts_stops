@@ -1,0 +1,77 @@
+377,'539','Geneva St + Welland Ave',43.166142,-79.240272
+426,'580','Geneva St + Welland Ave',43.166053,-79.240383
+708,'838','Glenridge Ave + E Academic Complex',43.118037,-79.24326
+875,'228','Sir Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184
+1322,'1302','Pine St S + Lynden St W',43.119026,-79.202903
+1462,'1340','Sir Isaac Brock Way + Schmon Pkwy',43.118195,-79.239633
+1638,'1285','Glenridge Ave + E Academic Crosswalk',43.119059,-79.243455
+2612,'BRU','Brock U',43.118878,-79.248973
+2620,'CTO','Thorold Towpath Term',43.123822,-79.20208
+2622,'DTT','St Catharines Bus Term',43.160076,-79.243553
+2623,'FVM','Fairview Mall',43.178413,-79.245514
+2628,'GDC','Niagara College - NOTL Campus',43.152309,-79.166473
+2660,'PEN','Pen Ctr',43.134869,-79.223701
+2681,'OUT','Outlet Collection @ Niagara',43.15788,-79.1752
+2689,'WLC','Niagara College - Welland Campus',43.014897,-79.262253
+2714,'9013','Niagara St + 1019 Niagara St',43.026325,-79.249772
+2715,'9014','Niagara St + Quaker Rd',43.023143,-79.249713
+2887,'3634','Morrison-Dorchester Hub',43.103486,-79.115698
+2900,'3888','Fort Erie Municipal Ctr',42.90219,-78.97349
+3011,'6315','Canadian Dr Hub',43.064281,-79.124815
+3169,'6619','Thorold Stone Rd & Montrose Rd',43.114688,-79.125785
+3216,'6709','ThldStone Rd @ Dorch NW Cor',43.115101,-79.112759
+3225,'6803','ThldStone @ Dorch SW Cor',43.114991,-79.112491
+3525,'6363','Thorold Stone Rd + Montrose Rd',43.114541,-79.125203
+3526,'6374','Montrose Rd & Lundy''s Ln',43.088426,-79.12332
+3527,'6845','Thorold Stone Rd + Kalar Rd',43.114366,-79.137132
+3528,'6846','Thorold Stone Rd + Kalar Rd',43.114223,-79.137608
+3529,'6918','Montrose Rd & Lundy''s Ln',43.088791,-79.123225
+3530,'6946','E Main St + Wellington St',42.993599,-79.227015
+3531,'6948','E Main St + Wellington St',42.993472,-79.227167
+3532,'6950','Concentrix',43.03934,-79.124025
+3533,'6953','Schisler Rd + Montrose Rd',43.006608,-79.123645
+3534,'6954','Montrose Rd + Schisler Rd',43.008063,-79.122215
+3733,'WEL','Welland Bus Term',42.993506,-79.245809
+3734,'13006','Port Colborne City Hall',42.885123,-79.252388
+3736,'2503','Flag Stop - Elm St & Prosperity',42.906619,-79.254835
+3738,'2507','Flag Stop - Coronation Dr & W',42.903076,-79.265209
+3740,'2514','Flag Stop - W Side Rd & Killa',42.8916,-79.265091
+3744,'2523','Flag Stop - Elm St & Charlotte S',42.885027,-79.25477
+3745,'2534','Flag Stop - Borden Av & Elm St',42.901739,-79.254824
+3746,'3001','Flag Stop - Barrick Rd & Apollo',42.910328,-79.257409
+3748,'3006','Flag Stop - Mall & W Side Rd',42.905188,-79.265245
+3751,'3011','Flag Stop - Merritt Pk & W Si',42.89903,-79.265167
+3752,'3012','Flag Stop - W Side Rd & Main',42.897566,-79.264877
+3758,'3024','Flag Stop - Elm St & Elgin St',42.888315,-79.254786
+3759,'3025','Flag Stop - Elm St & Killaly St',42.891652,-79.25484
+3760,'3026','Flag Stop - Elm St & McCain St',42.895024,-79.254909
+3761,'3027','Flag Stop - Elm St & Neff St',42.897959,-79.254776
+3768,'3035','Flag Stop - Elm St & Rosedale',42.902934,-79.254733
+3803,'3076','Flag Stop - Barrick Rd & W Si',42.910171,-79.264855
+3804,'3077','Flag Stop - W Side Rd & Stone',42.921208,-79.265516
+3805,'3078','Flag Stop - W Side Rd & Forks',42.94535,-79.263911
+3806,'3079','Flag Stop - Hwy 58 & Townline Rd',42.962029,-79.261773
+3807,'3081','Flag Stop - Canal Bank St & Town',42.962625,-79.252431
+3808,'3082','Flag Stop - W Side Rd & Forks',42.945083,-79.264287
+3809,'3083','Flag Stop - W Side Rd & Stone',42.920952,-79.265456
+3810,'3084','Flag Stop - W Side Rd & Barr',42.910533,-79.265392
+3843,'4044','Ontario Rd & Iron St',42.974588,-79.253187
+3844,'4045','King St & 7th St',42.975613,-79.251215
+3846,'4047','King St & 4th St',42.979603,-79.25116
+3847,'4048','King St & 2nd St',42.981582,-79.251178
+3848,'4049','King St & Albert St',42.985842,-79.250985
+3849,'4050','King St & 211 King St',42.987506,-79.251017
+3850,'4051','Welland Museum',42.989224,-79.250993
+3851,'4052','Division St & King St',42.990595,-79.250698
+3852,'4053','Division St & Cross St',42.99096,-79.24891
+3958,'4175','King St & 60 King St',42.990205,-79.25116
+3959,'4176','King St & 211 King St',42.9873,-79.251082
+3960,'4177','King St & Albert St',42.985993,-79.251215
+3961,'4178','King St & Rex Hotel',42.984633,-79.251223
+3962,'4179','King St & Labs',42.981915,-79.251335
+3964,'4181','King St & 6th St',42.977275,-79.251382
+3965,'4182','King St & 7th St',42.975558,-79.251382
+4032,'3000','Canal Bank Dr & Ontario Rd',42.974459,-79.255096
+4033,'2515','Flag Stop - Killally St W & Stee',42.891649,-79.260317
+4034,'3080','Flag Stop - Canal Bank St & Town',42.962531,-79.252045
+4075,'9016','Niagara St + Quaker Rd',43.022723,-79.249915
