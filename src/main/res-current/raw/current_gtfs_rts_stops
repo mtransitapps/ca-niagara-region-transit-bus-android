@@ -17,6 +17,7 @@
 2715,'9014','Niagara St + Quaker Rd',43.023143,-79.249713
 2887,'3634','Morrison-Dorchester Hub',43.103486,-79.115698
 2900,'3888','Fort Erie Municipal Ctr',42.90219,-78.97349
+3005,'6303','Kalar Rd & Lundy''s Ln SE',43.088505,-79.135993
 3011,'6315','Canadian Dr Hub',43.064281,-79.124815
 3169,'6619','Thorold Stone Rd & Montrose Rd',43.114688,-79.125785
 3216,'6709','ThldStone Rd @ Dorch NW Cor',43.115101,-79.112759
@@ -47,14 +48,10 @@
 3760,'3026','Flag Stop - Elm St & McCain St',42.895024,-79.254909
 3761,'3027','Flag Stop - Elm St & Neff St',42.897959,-79.254776
 3768,'3035','Flag Stop - Elm St & Rosedale',42.902934,-79.254733
+3769,'3037','Flag Stop - King St & Clarence S',42.886271,-79.251401
 3803,'3076','Flag Stop - Barrick Rd & W Si',42.910171,-79.264855
-3804,'3077','Flag Stop - W Side Rd & Stone',42.921208,-79.265516
-3805,'3078','Flag Stop - W Side Rd & Forks',42.94535,-79.263911
 3806,'3079','Flag Stop - Hwy 58 & Townline Rd',42.962029,-79.261773
 3807,'3081','Flag Stop - Canal Bank St & Town',42.962625,-79.252431
-3808,'3082','Flag Stop - W Side Rd & Forks',42.945083,-79.264287
-3809,'3083','Flag Stop - W Side Rd & Stone',42.920952,-79.265456
-3810,'3084','Flag Stop - W Side Rd & Barr',42.910533,-79.265392
 3843,'4044','Ontario Rd & Iron St',42.974588,-79.253187
 3844,'4045','King St & 7th St',42.975613,-79.251215
 3846,'4047','King St & 4th St',42.979603,-79.25116
@@ -75,3 +72,9 @@
 4033,'2515','Flag Stop - Killally St W & Stee',42.891649,-79.260317
 4034,'3080','Flag Stop - Canal Bank St & Town',42.962531,-79.252045
 4075,'9016','Niagara St + Quaker Rd',43.022723,-79.249915
+4129,'1405','Kottmeier Rd & Vaughn Dr',43.036609,-79.228933
+4130,'1406','Kottmeier Rd & Vaughn Dr',43.036463,-79.228844
+4131,'3085','Flag Stop - Killaly St W & Elm S',42.891682,-79.255173
+4132,'3086','Flag Stop - Killaly St W & King',42.891666,-79.251955
+4134,'Stop8977','60C Delay Stop Woodlawn & Niagara',43.01301,-79.254948
+4136,'Stop8979','65A Delay Stop Morrison & Dorchester',43.104343,-79.111432
