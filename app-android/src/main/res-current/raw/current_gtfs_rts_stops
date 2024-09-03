@@ -5,7 +5,6 @@
 875,'228','Sir Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184,0,55574
 1322,'1302','Pine St S + Lynden St W',43.11903,-79.20290,0,1510370
 1462,'1340','Sir Isaac Brock Way + Schmon Pkwy',43.11820,-79.23963,0,1511455
-1638,'1285','Glenridge Ave + E Academic Crosswalk',43.11906,-79.24346,0,1513290
 2612,'BRU','Brock U',43.11888,-79.24897,0,1543013
 2620,'CTO','Thorold Towpath Term',43.12382,-79.20208,0,1543042
 2622,'DTT','St Catharines Bus Term',43.16008,-79.24355,0,1543044
@@ -73,7 +72,8 @@
 4033,'2515','Flag Stop - Killally St W & Stee',42.89165,-79.26032,0,1596892
 4034,'3080','Flag Stop - Canal Bank St & Town',42.96253,-79.25205,0,1596893
 4075,'9016','Niagara St + Quaker Rd',43.02272,-79.24992,0,1597018
-4129,'1405','Kottmeier Rd & Vaughn Dr',43.03661,-79.22893,0,1597828
-4130,'1406','Kottmeier Rd & Vaughn Dr',43.03646,-79.22884,0,1597850
+4129,'1405','Kottmeier Rd + Vaughn Dr',43.03661,-79.22893,0,1597828
+4130,'1406','Kottmeier Rd + Vaughn Dr',43.03646,-79.22884,0,1597850
 4131,'3085','Flag Stop - Killaly St W & Elm S',42.89168,-79.25517,0,1597851
 4132,'3086','Flag Stop - Killaly St W & King',42.89167,-79.25196,0,1597852
+4173,'1411','Glenridge Av + E Academic Crosswalk',43.11939,-79.24347,0,1597977
