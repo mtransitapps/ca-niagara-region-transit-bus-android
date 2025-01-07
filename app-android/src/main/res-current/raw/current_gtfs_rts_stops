@@ -1,7 +1,6 @@
 377,'539','Geneva St + Welland Ave',43.16614,-79.24027,0,50771
 426,'580','Geneva St + Welland Ave',43.16605,-79.24038,0,51576
 707,'1206','Isaac Brock Blvd + Zone 2 Pkng Lot',43.11637,-79.24703,0,54398
-708,'838','Glenridge Ave + E Academic Complex',43.11804,-79.24326,0,54399
 875,'228','Sir Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184,0,55574
 1322,'1302','Pine St S + Lynden St W',43.11903,-79.20290,0,1510370
 1462,'1340','Sir Isaac Brock Way + Schmon Pkwy',43.11820,-79.23963,0,1511455
@@ -18,11 +17,11 @@
 2715,'9014','Niagara St + Quaker Rd',43.02314,-79.24971,0,1543977
 2887,'3634','Morrison-Dorchester Hub',43.10349,-79.11570,0,1545157
 2900,'3888','Fort Erie Municipal Ctr',42.90219,-78.97349,0,1545863
-3005,'6303','Kalar Rd & Lundy''s Ln SE',43.08851,-79.13599,0,1567010
+3005,'6303','Kalar Rd + Lundy''s Ln',43.08851,-79.13599,0,1567010
 3011,'6315','Canadian Dr Hub',43.06428,-79.12482,0,1567037
 3169,'6619','Thorold Stone Rd & Montrose Rd',43.11469,-79.12579,0,1568161
 3216,'6709','ThldStone Rd @ Dorch NW Cor',43.11510,-79.11274,0,1568964
-3225,'6803','ThldStone @ Dorch SW Cor',43.11499,-79.11249,0,1568994
+3225,'6803','Thorold Stone Rd + Dorchester Rd',43.11499,-79.11249,0,1568994
 3525,'6363','Thorold Stone Rd + Montrose Rd',43.11454,-79.12520,0,1571877
 3526,'6374','Montrose Rd & Lundy''s Ln',43.08791,-79.12335,0,1571878
 3527,'6845','Thorold Stone Rd + Kalar Rd',43.11437,-79.13713,0,1571879
@@ -35,6 +34,7 @@
 3534,'6954','Montrose Rd + Schisler Rd',43.00806,-79.12222,0,1571907
 3733,'WEL','Welland Bus Term',42.99351,-79.24581,0,1573828
 3734,'13006','Port Colborne City Hall',42.88512,-79.25239,0,1573829
+3735,'2502','Flag Stop - Steele St + Northland Av',42.90620,-79.26019,0,1573830
 3736,'2503','Flag Stop - Elm St & Prosperity',42.90662,-79.25484,0,1573831
 3738,'2507','Flag Stop - Coronation Dr & W',42.90308,-79.26521,0,1573833
 3740,'2514','Flag Stop - W Side Rd & Killa',42.89160,-79.26509,0,1573856
@@ -50,8 +50,7 @@
 3761,'3027','Flag Stop - Elm St & Neff St',42.89796,-79.25478,0,1573919
 3768,'3035','Flag Stop - Elm St & Rosedale',42.90293,-79.25473,0,1573926
 3769,'3037','Flag Stop - King St & Clarence S',42.88627,-79.25140,0,1573927
-3803,'3076','Flag Stop - Barrick Rd & W Si',42.91017,-79.26486,0,1574696
-3807,'3081','Flag Stop - Canal Bank St & Town',42.96263,-79.25243,0,1574700
+3807,'3081','Canal Bank St + Townline Tunnel Rd',42.96263,-79.25243,0,1574700
 3843,'4044','Ontario Rd & Iron St',42.97459,-79.25319,0,1574820
 3844,'4045','King St & 7th St',42.97561,-79.25122,0,1574821
 3846,'4047','King St & 4th St',42.97960,-79.25116,0,1574823
@@ -70,10 +69,12 @@
 3965,'4182','King St & 7th St',42.97556,-79.25138,0,1575845
 4032,'3000','Canal Bank Dr & Ontario Rd',42.97446,-79.25510,0,1596891
 4033,'2515','Flag Stop - Killally St W & Stee',42.89165,-79.26032,0,1596892
-4034,'3080','Flag Stop - Canal Bank St & Town',42.96253,-79.25205,0,1596893
+4034,'3080','Canal Bank St + Townline Tunnel Rd',42.96253,-79.25205,0,1596893
 4075,'9016','Niagara St + Quaker Rd',43.02272,-79.24992,0,1597018
 4129,'1405','Kottmeier Rd + Vaughn Dr',43.03661,-79.22893,0,1597828
 4130,'1406','Kottmeier Rd + Vaughn Dr',43.03646,-79.22884,0,1597850
 4131,'3085','Flag Stop - Killaly St W & Elm S',42.89168,-79.25517,0,1597851
 4132,'3086','Flag Stop - Killaly St W & King',42.89167,-79.25196,0,1597852
-4173,'1411','Glenridge Av + E Academic Crosswalk',43.11939,-79.24347,0,1597977
+4237,'1412','Kingsway + Erie St',42.94781,-79.24827,0,1598818
+4238,'1413','Kingsway + Erie St',42.94844,-79.24834,0,1598819
+4239,'3087','Flag Stop - Elm St + Barrick Rd',42.91038,-79.25509,0,1598820
