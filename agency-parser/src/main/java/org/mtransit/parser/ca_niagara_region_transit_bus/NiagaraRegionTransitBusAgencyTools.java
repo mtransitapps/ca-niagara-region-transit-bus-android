@@ -1,6 +1,12 @@
 package org.mtransit.parser.ca_niagara_region_transit_bus;
 
+import static org.mtransit.commons.RegexUtils.BEGINNING;
 import static org.mtransit.commons.RegexUtils.DIGITS;
+import static org.mtransit.commons.RegexUtils.WHITESPACE_CAR;
+import static org.mtransit.commons.RegexUtils.WORD_CAR;
+import static org.mtransit.commons.RegexUtils.exactly;
+import static org.mtransit.commons.RegexUtils.group;
+import static org.mtransit.commons.RegexUtils.maybe;
 import static org.mtransit.commons.StringUtils.EMPTY;
 
 import org.jetbrains.annotations.NotNull;
@@ -32,11 +38,6 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -49,7 +50,7 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean excludeAgency(@NotNull GAgency gAgency) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String agencyId = gAgency.getAgencyId();
 		if (!agencyId.contains(NIAGARA_REGION_TRANSIT)
 				&& !agencyId.contains("AllNRT_")
@@ -61,7 +62,7 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean excludeRoute(@NotNull GRoute gRoute) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String agencyId = gRoute.getAgencyIdOrDefault();
 		if (!agencyId.contains(NIAGARA_REGION_TRANSIT)
 				&& !agencyId.contains("AllNRT_")
@@ -77,7 +78,7 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 				return EXCLUDE;
 			}
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String routeId = gRoute.getRouteId();
 		if (routeId.startsWith(EXCLUDE_STC_ROUTE_IDS_STARTS_WITH)) {
 			return EXCLUDE;
@@ -175,6 +176,38 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
+	private static final Pattern STARTS_WITH_LETTER_DASH_ = Pattern.compile(
+			group(BEGINNING + exactly(WORD_CAR, 1) + maybe(WHITESPACE_CAR) + "-" + maybe(WHITESPACE_CAR)),
+			Pattern.CASE_INSENSITIVE);
+
+	@Override
+	public @Nullable String selectDirectionHeadSign(@Nullable String headSign1, @Nullable String headSign2) {
+		final boolean find1 = headSign1 != null && STARTS_WITH_LETTER_DASH_.matcher(headSign1).find();
+		final boolean find2 = headSign2 != null && STARTS_WITH_LETTER_DASH_.matcher(headSign2).find();
+		if (find1 == find2) {
+			return null;
+		}
+		if (find1) {
+			return headSign2;
+		} else { // if (find2)
+			return headSign1;
+		}
+	}
+
+	@Override
+	public @NotNull String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+		directionHeadSign = STARTS_WITH_LETTER_DASH_.matcher(directionHeadSign).replaceAll(EMPTY);
+		return super.cleanDirectionHeadsign(directionId, fromStopName, directionHeadSign);
+	}
+
+	@Override
+	public boolean directionFinderEnabled(long routeId, @NotNull GRoute gRoute) {
+		if (routeId == 60L) {
+			return false; // 2025-06-10: mess
+		}
+		return super.directionFinderEnabled(routeId, gRoute);
+	}
+
 	private static final Pattern STARTS_WITH_RSN = Pattern.compile("((^)\\d{2}([a-z] | ))", Pattern.CASE_INSENSITIVE);
 	private static final String STARTS_WITH_RSN_REPLACEMENT = "$3";
 
@@ -244,7 +277,7 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.keepToAndRemoveVia(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
@@ -264,7 +297,7 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@NotNull
@@ -280,7 +313,7 @@ public class NiagaraRegionTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId1 = gStop.getStopId();
 		//noinspection ConstantConditions
 		if (true) {
