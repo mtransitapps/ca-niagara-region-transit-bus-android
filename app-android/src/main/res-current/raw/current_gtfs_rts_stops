@@ -1,14 +1,14 @@
 377,'539','Geneva St + Welland Ave',43.16614,-79.24027,1,50771
 426,'580','Geneva St + Welland Ave',43.16605,-79.24038,0,51576
 707,'1206','Isaac Brock Blvd + Zone 2 Pkng Lot',43.11637,-79.24703,1,54398
-875,'228','Sir Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184,1,55574
+875,'228','Isaac Brock Way + Schmon Pkwy',43.11766,-79.24184,1,55574
 1322,'1302','Pine St S + Lynden St W',43.11903,-79.20290,0,1510370
-1462,'1340','Sir Isaac Brock Way + Schmon Pkwy',43.11820,-79.23963,1,1511455
+1462,'1340','Isaac Brock Way + Schmon Pkwy',43.11820,-79.23963,1,1511455
 2612,'BRU','Brock U',43.11888,-79.24897,1,1543013
 2620,'CTO','Thorold Towpath Term',43.12382,-79.20208,1,1543042
 2622,'DTT','St Catharines Bus Term',43.16008,-79.24355,1,1543044
 2623,'FVM','Fairview Mall',43.17841,-79.24551,1,1543045
-2628,'GDC','Niagara College - NOTL Campus',43.15231,-79.16647,0,1543050
+2628,'GDC','Niagara College - Daniel J Patterson Campus',43.15231,-79.16647,0,1543050
 2660,'PEN','Pen Ctr',43.13487,-79.22370,1,1543166
 2670,'10071','Seaway Mall',43.01539,-79.24879,0,1543197
 2681,'OUT','Outlet Collection @ Niagara',43.15788,-79.17520,0,1543229
@@ -77,3 +77,5 @@
 4237,'1412','Kingsway + Erie St',42.94813,-79.24842,0,1598818
 4238,'1413','Kingsway + Erie St',42.94849,-79.24832,0,1598819
 4239,'3087','Flag Stop - Elm St + Barrick Rd',42.91038,-79.25509,0,1598820
+4251,'1416','Glendale Av + Griffiths Gt',43.15053,-79.17605,0,1598874
+4252,'1417','Glendale Av + Niagara On The Grn Bl',43.15225,-79.17108,0,1598875
