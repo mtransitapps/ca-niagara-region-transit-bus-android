@@ -15,7 +15,7 @@
 2689,'WLC','Niagara College - Welland Campus',43.01490,-79.26225,1,1543237
 2715,'9014','Niagara St + Quaker Rd',43.02314,-79.24971,2,1543977
 2887,'3634','Morrison-Dorchester Hub',43.10349,-79.11570,1,1545157
-2900,'3888','Fort Erie Municipal Ctr',42.90219,-78.97349,2,1545863
+2900,'3888','Fort Erie Town Hall',42.90219,-78.97349,2,1545863
 3005,'6303','Kalar Rd + Lundy''s Ln',43.08851,-79.13599,1,1567010
 3011,'6315','Canadian Dr Hub',43.06428,-79.12482,1,1567037
 3169,'6619','Thorold Stone Rd + Montrose Rd',43.11469,-79.12579,1,1568161
@@ -78,3 +78,5 @@
 4239,'3087','Flag Stop - Elm St + Barrick Rd',42.91038,-79.25509,2,1598820
 4251,'1416','Glendale Av + Griffiths Gt',43.15053,-79.17605,2,1598874
 4252,'1417','Glendale Av + Niagara On The Grn Bl',43.15225,-79.17108,2,1598875
+4258,'6970','Montrose Rd + Reixinger Rd',43.03732,-79.12307,2,1598881
+4259,'6971','Montrose Rd + Reixinger Rd',43.03745,-79.12273,2,1598882
