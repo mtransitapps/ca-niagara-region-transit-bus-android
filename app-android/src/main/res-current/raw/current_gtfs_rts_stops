@@ -30,7 +30,7 @@
 3533,'6953','Schisler Rd + Montrose Rd',43.00661,-79.12365,2,1571906
 3534,'6954','Montrose Rd + Schisler Rd',43.00806,-79.12222,2,1571907
 3733,'WEL','Welland Bus Term',42.99351,-79.24581,1,1573828
-3734,'13006','Port Colborne City Hall',42.88512,-79.25239,2,1573829
+3734,'13006','Port Colborne City Hall',42.88506,-79.25204,2,1573829
 3735,'2502','Flag Stop - Steele St + Northland Av',42.90620,-79.26019,2,1573830
 3736,'2503','Flag Stop - Elm St + Prosperity',42.90662,-79.25484,2,1573831
 3738,'2507','Flag Stop - Coronation Dr + W',42.90308,-79.26521,2,1573833
@@ -75,6 +75,8 @@
 4237,'1412','Kingsway + Erie St',42.94813,-79.24842,2,1598818
 4238,'1413','Kingsway + Erie St',42.94849,-79.24832,2,1598819
 4239,'3087','Flag Stop - Elm St + Barrick Rd',42.91038,-79.25509,2,1598820
+4251,'1416','Glendale Av + Griffiths Gt',43.15053,-79.17605,2,1598874
+4252,'1417','Glendale Av + Niagara On The Grn Bl',43.15225,-79.17108,2,1598875
 4258,'6970','Montrose Rd + Reixinger Rd',43.03732,-79.12307,2,1598881
 4259,'6971','Montrose Rd + Reixinger Rd',43.03745,-79.12273,2,1598882
 4264,'7000','Fort Erie Town Hall',42.90215,-78.97301,2,1598908
