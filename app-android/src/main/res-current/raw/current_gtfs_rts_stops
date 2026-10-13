@@ -4,15 +4,7 @@
 875,'228','Isaac Brock Way + Schmon Pkwy',43.11779,-79.24168,1,55574
 1322,'1302','Pine St S + Lynden St W',43.11899,-79.20280,2,1510370
 1462,'1340','Isaac Brock Way + Schmon Pkwy',43.11816,-79.23962,1,1511455
-2612,'BRU','Brock U',43.11893,-79.24900,1,1543013
-2620,'CTO','Thorold Towpath Term',43.12385,-79.20205,1,1543042
-2622,'DTT','St Catharines Bus Term',43.16008,-79.24355,1,1543044
-2623,'FVM','Fairview Mall',43.17841,-79.24551,1,1543045
-2628,'GDC','Niagara College - Daniel J Patterson Campus',43.15245,-79.16646,2,1543050
-2660,'PEN','Pen Ctr',43.13494,-79.22372,1,1543166
 2670,'10071','Seaway Mall',43.01535,-79.24873,2,1543197
-2681,'OUT','Outlet Collection @ Niagara',43.15788,-79.17520,2,1543229
-2689,'WLC','Niagara College - Welland Campus',43.01499,-79.26227,1,1543237
 2715,'9014','Niagara St + Quaker Rd',43.02309,-79.24965,2,1543977
 2887,'3634','Morrison-Dorchester Hub',43.10359,-79.11570,1,1545157
 3005,'6303','Kalar Rd + Lundy''s Ln',43.08836,-79.13594,1,1567010
@@ -29,7 +21,6 @@
 3531,'6948','E Main St + Wellington St',42.99339,-79.22715,2,1571904
 3533,'6953','Schisler Rd + Montrose Rd',43.00671,-79.12369,2,1571906
 3534,'6954','Montrose Rd + Schisler Rd',43.00802,-79.12233,2,1571907
-3733,'WEL','Welland Bus Term',42.99288,-79.24625,1,1573828
 3734,'13006','Port Colborne City Hall',42.88506,-79.25204,2,1573829
 3735,'2502','Flag Stop - Steele St + Northland Av',42.90620,-79.26019,2,1573830
 3736,'2503','Flag Stop - Elm St + Prosperity',42.90662,-79.25484,2,1573831
@@ -80,3 +71,12 @@
 4258,'6970','Montrose Rd + Reixinger Rd',43.03732,-79.12308,2,1598881
 4259,'6971','Montrose Rd + Reixinger Rd',43.03745,-79.12273,2,1598882
 4264,'7000','Fort Erie Town Hall',42.90215,-78.97301,2,1598908
+4321,'BRU','Brock U',43.11893,-79.24900,1,1599742
+4358,'CTO','Thorold Towpath Term',43.12385,-79.20205,1,1599842
+4359,'DTT','Downtown Term 70 Carlisle St',43.16008,-79.24355,1,1599843
+4360,'FVM','Fairview Mall',43.17841,-79.24555,1,1599865
+4361,'GDC','Niagara College - NOTL Campus',43.15245,-79.16646,2,1599866
+4362,'OUT','Outlet Collection @ Niagara',43.15788,-79.17520,2,1599867
+4363,'PEN','Pen Ctr 221 Glendale Ave',43.13494,-79.22372,1,1599868
+4365,'WEL','Welland Bus Term',42.99288,-79.24625,1,1599870
+4366,'WLC','Niagara College - Welland Campus',43.01499,-79.26226,1,1599871
