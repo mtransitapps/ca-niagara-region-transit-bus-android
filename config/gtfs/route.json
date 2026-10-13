@@ -1,0 +1,77 @@
+{
+    "exclude_routes": [
+        {
+            "route_short_name_regex": "^\\d{3}$"
+        }
+    ],
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "ffe2a1"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "22",
+            "color": "DB5E2C"
+        },
+        {
+            "route_short_name": "25",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "34",
+            "color": "943734"
+        },
+        {
+            "route_short_name": "40",
+            "color": "4f809E"
+        },
+        {
+            "route_short_name": "45",
+            "color": "4f809E"
+        },
+        {
+            "route_short_name": "50",
+            "color": "E46C0A"
+        },
+        {
+            "route_short_name": "55",
+            "color": "E46C0A"
+        },
+        {
+            "route_short_name": "60",
+            "color": "8C73A6"
+        },
+        {
+            "route_short_name": "65",
+            "color": "8C73A6"
+        },
+        {
+            "route_short_name": "70",
+            "color": "00A3AE"
+        },
+        {
+            "route_short_name": "75",
+            "color": "00A3AE"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(^\\w{1}\\s?-\\s?)",
+            "ignore_case": true,
+            "comment": "remove starts with letter and dash 'X-'"
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "((^)\\d{2}([a-z] | ))",
+            "ignore_case": true,
+            "replacement": "$3",
+            "comment": "remove leading two-digit number with optional letter"
+        }
+    ],
+    "stop_name_cleaners": []
+}
